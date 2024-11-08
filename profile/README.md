@@ -34,7 +34,7 @@ Driven by my experiences as a student, I’ve noticed how fragmented and ineffic
 - **Q4 2025**: Preparing for the first full release of the Library Management System. This includes finalizing documentation, creating user guides, and deploying the system for initial use in a test environment. Feedback from this phase will guide future updates and improvements.
 
 ### 💬 Join the Conversation
-This might be a solo project, but your ideas could make a huge difference. Starting in Q4 2024, I’ll be opening up discussions to gather feedback and insights. If you’ve got suggestions, insights, or just want to chat about where this is going, jump into the [Discussions](link to discussions). Together, let’s **MAKE EDUCATION GREAT AGAIN**. 🚀
+This might be a solo project, but your ideas could make a huge difference. With Discussions now open, I'm excited to gather your feedback and insights as we move forward. If you’ve got suggestions, insights, or just want to chat about where this is going, jump into the [Discussions](https://github.com/orgs/typhooncode-library-administration/discussions). Together, let’s **MAKE EDUCATION GREAT AGAIN**. 🚀
 
 
 <!--
